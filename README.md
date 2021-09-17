@@ -59,7 +59,7 @@
 
 <br/>
 
-<h2>📜 Resume </h2>
+<h2>📜 About </h2>
 
 <br/>
 
@@ -75,8 +75,14 @@
 
 <br/>
 
+<h2>✨ Resume </h2>
+
+<a href="https://leogrambert.fr/assets/pdf/CV.pdf">Click here</a>
+
+<br/>
+
 <!--
-**LeoGrambert/LeoGrambert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LeoGrambert/LeoGrambert** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
