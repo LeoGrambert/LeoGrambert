@@ -30,6 +30,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Express.js-0D1117?style=flat-square&logo=Express&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Hapi.js-0D1117?style=flat-square&logo=Hapijs&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Puppeteer-0D1117?style=flat-square&logo=Puppeteer&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-square&logo=gnu-bash&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=F0DB4F"></a>
