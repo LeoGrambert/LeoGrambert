@@ -27,6 +27,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Tailwindcss-0D1117?style=flat-square&logo=Tailwindcss&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Vercel%20-%230D1117.svg?style=flat-square&logo=vercel&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Vue.js-0D1117?style=flat-square&logo=vue&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Express.js-0D1117?style=flat-square&logo=Express&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Hapi.js-0D1117?style=flat-square&logo=Hapijs&logoColor=F0DB4F"></a>
