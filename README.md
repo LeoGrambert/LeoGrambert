@@ -52,6 +52,7 @@
   <div>
     <a href="#"><img alt="Leo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leogrambert&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <a href="#"><img alt="Leo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogrambert&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="Leo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=leogrambert&custom_title=Leo%20Grambert's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
     <br/>
   </div>
 
