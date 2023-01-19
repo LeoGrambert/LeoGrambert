@@ -31,6 +31,11 @@
   <a href="#"><img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Express.js-0D1117?style=flat-square&logo=Express&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Hapi.js-0D1117?style=flat-square&logo=Hapijs&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-solidity-0D1117?style=flat-square&logo=solidity&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-web%203-0D1117?style=flat-square&logo=web%203&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-smart%20contract-0D1117?style=flat-square&logo=smart%20contract&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-blockchain-0D1117?style=flat-square&logo=blockchain&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Puppeteer-0D1117?style=flat-square&logo=Puppeteer&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-square&logo=gnu-bash&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
@@ -50,40 +55,10 @@
 <p>
   Hi! ✌️<br /><br />
   I'm Leo, self-taught web developer working for <a href="https://www.hardloop.fr" target="_blank">Hardloop</a> since 2018, a french e-commerce for outdoor products (climbing, mountaineering, running, ...) localized at Annecy/Lyon.<br />
-  On my free time, I'm also a freelancer. In particular, I help some students on <a href="https://openclassrooms.com/fr/paths/185-developpeur-web" target="_blank">web development</a> and <a href="https://openclassrooms.com/fr/paths/314-developpeur-front-end" target="_blank">front-end development</a> paths.<br>
+  On my free time, I'm also a freelancer. In particular, I help some students on <a href="https://openclassrooms.com/fr/paths/556-developpeur-web" target="_blank">web development</a>, <a href="https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react" target="_blank">React.js / JavaScript</a> and <a href="https://openclassrooms.com/fr/paths/594-integrateur-web" target="_blank">Web integrator</a> paths.<br>
   I'm working mainly with Javascript/Typescript (Next.js, Node.js, Express.js, Hapi.js). I'm always curious for discover new things and acquire new skills.<br />
   💬 Let's get in touch !<br/> <br />
 </p>
-
-
-<br/>
-
-<h2>✨ Resume </h2>
-
-<a href="https://leogrambert.fr/assets/pdf/CV.pdf">Click here</a>
-
-<br/>
-
-
-<h2>📃 Github Stats</h2>
-
-<br/>
-
-<diV>
-
-  <div>
-    <a href="#"><img alt="Leo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leogrambert&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <a href="#"><img alt="Leo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogrambert&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <a href="#"><img alt="Leo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=leogrambert&custom_title=Leo%20Grambert's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
-    <br/>
-  </div>
-
-  <hr/>
-</div>
-
-<br/>
-
-
 
 <!--
 **LeoGrambert/LeoGrambert** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
