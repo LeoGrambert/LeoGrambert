@@ -8,6 +8,7 @@
   <a href="https://linkedin.com/in/leogrambert" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a>
   <a href="https://gitlab.com/leohardloop" target="_blank"><img src="https://img.shields.io/badge/-gitlab-0D1117?style=for-the-badge&logo=gitlab&logoColor=F0DB4F"></a> 
   <a href="https://www.leogrambert.fr" target="_blank"><img src="https://img.shields.io/badge/-website-0D1117?style=for-the-badge&logo=website&logoColor=F0DB4F"></a> 
+  <a href="https://medium.com/@leogbrt" target="_blank"><img src="https://img.shields.io/badge/-medium-0D1117?style=for-the-badge&logo=medium&logoColor=F0DB4F"></a> 
   <a href="https://open.spotify.com/playlist/5Y1X4MgUbtWG9zQRQkp1aH?si=313129e7bf934b9e" target="_blank"><img src="https://img.shields.io/badge/spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=F0DB4F"></a>
   <a href="https://t.me/LeoGrambert" target="_blank"><img src="https://img.shields.io/badge/telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F"></a>
 </p>
