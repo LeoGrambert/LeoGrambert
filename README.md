@@ -55,8 +55,7 @@
 
 <p>
   Hi! ✌️<br /><br />
-  I'm Leo, self-taught web developer working for <a href="https://www.hardloop.fr" target="_blank">Hardloop</a> since 2018, a french e-commerce for outdoor products (climbing, mountaineering, running, ...) localized at Annecy/Lyon.<br />
-  On my free time, I'm also a freelancer. In particular, I help some students on <a href="https://openclassrooms.com/fr/paths/556-developpeur-web" target="_blank">web development</a>, <a href="https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react" target="_blank">React.js / JavaScript</a> and <a href="https://openclassrooms.com/fr/paths/594-integrateur-web" target="_blank">Web integrator</a> paths.<br>
+  I'm Leo, self-taught web developer since 2017.<br />
   I'm working mainly with Javascript/Typescript (Next.js, Node.js, Express.js, Hapi.js). I'm always curious for discover new things and acquire new skills.<br />
   💬 Let's get in touch !<br/> <br />
 </p>
