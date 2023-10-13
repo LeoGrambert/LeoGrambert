@@ -10,7 +10,8 @@
   <a href="https://t.me/LeoGrambert" target="_blank"><img src="https://img.shields.io/badge/telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F"></a>
 </p>
 
-                                   ___          ____
+<div>`
+                                     ___          ____
                                ,-""   `.      < HONK >
                              ,'  _   e )`-._ /  ----                                                            
                             /  ,' `-._<.===-'                                                                   
@@ -31,6 +32,8 @@
                  \   --<                                                                                        
                   `.`.<                                                                                         
                     `-'                
+  
+  `</div>
 
 <!--
 **LeoGrambert/LeoGrambert** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
