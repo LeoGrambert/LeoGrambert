@@ -5,11 +5,9 @@
 
 <p align="center">   
   <a href="mailto:leogrambert@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
-  <a href="https://linkedin.com/in/leogrambert" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a>
   <a href="https://open.spotify.com/playlist/5Y1X4MgUbtWG9zQRQkp1aH?si=313129e7bf934b9e" target="_blank"><img src="https://img.shields.io/badge/spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=F0DB4F"></a>
-  <a href="https://t.me/LeoGrambert" target="_blank"><img src="https://img.shields.io/badge/telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F"></a>
-</p>                                                    
-
+  <a href="https://signal.me/#eu/wPj-cime1g8fmVtTS6zwBGdYSrB5ptzxPKPLCyvPKFg2grmmB9hJ_bL8bur6aOO2" target="_blank"><img src="https://img.shields.io/badge/signal-0D1117?style=for-the-badge&logo=signal&logoColor=F0DB4F"></a>
+</p> 
 
 <!--
 **LeoGrambert/LeoGrambert** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
